@@ -1,27 +1,7 @@
-h1{
-    color: aqua;
-}
-h2{
-    color: green;
-}
-h3{
-    color: yellowgreen;
-}
-h4{
-    color: purple;
-}
-.nivel-formação{
-    text-decoration: underline;
-}
-.texto-azul{
-    color: blue;
-}
-.texto-vermelho{
+html{
     color: red;
-}
-#titulo-ensino-medio{
-    text-decoration: none;
-}
-#titulo-ensino-superior{
-    color: brown;
+    background-color: black;
+    background-image: url("freddy.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
 }
